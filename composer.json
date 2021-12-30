@@ -2,7 +2,7 @@
     "name": "lakshmaji/plivo",
     "license": "MIT",
     "require": {
-        "plivo/plivo-php": "^1.1"
+        "plivo/plivo-php": "^4.14"
     },
     "description": "Send SMS using Plivo Cloud API",
     "authors": [
